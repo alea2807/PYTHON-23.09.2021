@@ -1,0 +1,9 @@
+#ex 8
+t=[5,11,12,10,6,9,5,11,12,10,6,8,9,5,11,12,10,6,8,9,6,5,6,7]
+o=['00','01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23']
+print('tempertura medie:', sum(t)/24)
+print('max si min temperaturii:', max(t),min(t))
+max=t.index(max(t))
+print('ora cu temperatura max:', ora[max])
+min=t.index(min(t))
+print('ora cu temp min:', ora[min])
