@@ -1,0 +1,8 @@
+#exercitiul 5
+x=[1,2,3,4,5]
+y=[1,2,3,4,5]
+print('suma primelor 3 componente:', x[0]+x[1]+x[2])
+print('suma componentelor variabilei y:', sum(y))
+print('produsul componentelor variabilei x:', x[0]*x[1]*x[2]*x[3]*x[4])
+print('valoarea abs a componentei a 3a a variabilei y:', abs(y[2]))
+print('suma primelor componente a variabileloor x y:', y[0]+x[0])
