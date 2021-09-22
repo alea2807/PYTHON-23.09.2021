@@ -1,0 +1,9 @@
+#ex 7
+v=[1800, 1700, 1600, 1900, 2000, 2100, 1500]
+x=['luni','marti','miercuri','joi','vineri','simbata','duminica']
+print('venitul saptaminal:', sum(v), 'lei')
+print('media venitului zilnic:', sum(v)/7, 'lei')
+max=v.index(max(v)))
+print('ziua cu cel mai mare venit:', y[max])
+min=v.index(min(v))
+print('ziua cu cel mmai mic venit:', y[min])
